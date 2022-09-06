@@ -18,6 +18,6 @@ public class mountain_sol_k {
                 start=mid +1;
             }
         }
-        return start ;
+        return arr[start] ;
     }
 }
