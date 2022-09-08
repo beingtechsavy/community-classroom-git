@@ -1,0 +1,26 @@
+name: kunal kushwaha
+fruit: "apple"
+job: !!str 'swe'
+bio: |
+ my name is kunal.
+ I am a nice dude
+message: >
+ this will look like another 
+ line but it is a single  line
+number: 5473
+marks: 123.4
+# boolean: !!bool No # n,N,false,alse same for true
+#specify the datatype
+zero : !!int 0
+positivenumber: !!int 45
+# binarynumber: !!int 0b11001
+octal: !!int 06574
+# commaval: !!int +540_000
+marks1: !!float 56.89
+notanumber: .nan
+surname: !!null null
+surnames: ~
+date: !!timestamp 2001-12-15
+indian time: 2001-12-15T02:59:43.10 +5:30
+exp: 3.023E56
+
