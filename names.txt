@@ -1,0 +1,2 @@
+this is a simple program to demonstrate how I am using git
+hello My name is arpan
