@@ -1,8 +1,0 @@
----
-school:
-- name: Dps
-  principal: someone
-  students:
-  - rno: 12
-    name: arjun 
-    marks: 56
