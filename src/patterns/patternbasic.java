@@ -1,14 +1,15 @@
 package patterns;
 import java.lang.Math;
 public class patternbasic {
+//    patterna2(10);
+//    pattern1(10);
+//    pattern2(10);
+//    pattern3(10);
+//    pattern4(10);
+//    pattern5(10);
     public static void main(String[] argcs){
         patterna10(5);
-//        patterna2(10);
-//        pattern1(10);
-//        pattern2(10);
-//        pattern3(10);
-//        pattern4(10);
-//        pattern5(10);
+
     }
     static void pattern1(int n){
         for(int i=0;i<n;i++){
@@ -251,5 +252,6 @@ public class patternbasic {
             System.out.println();
         }
     }
+//    pattern1
 
 }
